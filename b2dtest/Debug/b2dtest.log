@@ -1,0 +1,4 @@
+﻿  HelloWorld.cpp
+d:\b2dtest\b2dtest\helloworld.cpp(56): warning C4244: 'argument' : conversion from 'float' to 'unsigned int', possible loss of data
+d:\b2dtest\b2dtest\helloworld.cpp(101): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+  b2dtest.vcxproj -> D:\b2dtest\Debug\b2dtest.exe
